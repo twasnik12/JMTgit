@@ -43,6 +43,7 @@ public class LoginClass extends BaseClass {
 		uname.sendKeys(un);
 		
 		password.sendKeys(pass);
+		//Marge//
 	
 		
 		Loginbtn.click();
